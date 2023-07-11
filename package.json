@@ -1,4 +1,17 @@
 {
+  "name": "mygallerybook-node",
+  "description": "MyGalleryBook",
+  "version": "1.0.0",
+  "main": "mgb.js",
+  "scripts": {
+    "start": "nodemon mgb.js"
+  },
+  "keywords": [
+    "MyGalleryBook"
+  ],
+  "author": "VITA Techonology",
+  "license": "MIT",
+  "devDependencies": {},
   "dependencies": {
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
