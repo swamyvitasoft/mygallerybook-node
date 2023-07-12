@@ -2,9 +2,9 @@
   "name": "mygallerybook-node",
   "description": "MyGalleryBook",
   "version": "1.0.0",
-  "main": "mgb.js",
+  "main": "src/mgb.js",
   "scripts": {
-    "start": "nodemon mgb.js"
+    "start": "nodemon src/mgb.js"
   },
   "keywords": [
     "MyGalleryBook"
